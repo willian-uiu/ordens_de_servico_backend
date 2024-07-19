@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "API",
+    "application",
+    "domain",
+    "infrastructure",
+    "shared"
+]
